@@ -18,9 +18,17 @@ MDS API Rest Exercice 2 with mongoose
 
 ## GET
 
+Example: 
+
 ## PUT
+
+Example: 
 
 ## DELETE
 
+Example: 
+
 ## POST
+
+Example: 
 
