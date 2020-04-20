@@ -18,17 +18,31 @@ MDS API Rest Exercice 2 with mongoose
 
 ## GET
 
-Example: 
+Example: http://localhost:3000/todoitems/
 
 ## PUT
 
-Example: 
+Example: http://localhost:3000/todoitems/:Id
+
+Body / JSON
+
+{
+  "name": "Ma première tâchessss",
+  "status": "done"
+}
 
 ## DELETE
 
-Example: 
+Example: http://localhost:3000/todoitems/:Id
 
 ## POST
 
-Example: 
+Example: http://localhost:3000/todoitems/
+
+Body / JSON
+
+{
+  "name": "Ma première tâche",
+  "status": "done"
+}
 
